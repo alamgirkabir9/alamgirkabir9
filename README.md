@@ -9,7 +9,7 @@
 * Generative AI
 
 ## About Myself
-- 📫 How to reach me **alomgirkabir720@gmail.com**
+- 📫 How to reach me **alamgirkabir.iu.cse@gmail.com**
 
 - 📫 **Here is my [Portfolio](https://github.com/alamgirkabir9/portfolio)**
   
